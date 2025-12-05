@@ -79,15 +79,6 @@
 
 ---
 
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fayiznalakath&layout=compact&theme=vision-friendly-dark&count_private=true" />
-</div>
-
----
-
 <h2 align="center">💬 Connect with Me 💬</h2>
 <br>
 
