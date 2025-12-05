@@ -5,7 +5,7 @@ I work on cleaning data, analyzing patterns, and building dashboards that conver
 My current work includes exploratory analysis, KPI design, and creating practical analytics projects using real e-commerce datasets.
 
 ### 🔧 Tools & Skills
-- **Languages:** Python (Pandas, NumPy), SQL  
+- **Languages:** Python (Pandas, NumPy), SQL
 - **Visualization:** Power BI, Excel  
 - **Core Skills:** Data Cleaning, EDA, KPI Design, Dashboard Development
 
