@@ -50,7 +50,6 @@
 <br>
 
 <h2 align="center">📊 Featured Projects 📊</h2>
-<br>
 
 ### Projects by Category:
 
