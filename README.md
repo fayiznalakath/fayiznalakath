@@ -56,17 +56,17 @@
 - **[Olist E-Commerce Sales Analysis](https://github.com/fayiznalakath/Olist-Sale-Analysis)**  
   Power BI dashboards, SQL queries, KPIs, and EDA on a real e-commerce dataset.
 
-- **Salary Prediction (Machine Learning)** *(Ongoing)*  
+- **[EV Range Prediction (Machine Learning)](https://github.com/fayiznalakath/EV-Range-Prediction)**
   Regression models, feature analysis, and evaluation.
 
-- **Tableau Project** *(Coming Soon)*  
+- **Data Scientist Job Salary Analysis** *(Coming Soon)*  
   Visual dashboards and insights.
 
 ---
 
 ### My Projects:
 - **Olist Sales Analysis Dashboard** — Power BI KPIs, category insights, order trends, customer behavior.  
-- **ML Salary Prediction Model** — Pandas, Scikit-learn, regression modeling. *(Ongoing)*
+- **EV Range Prediction Model** — Pandas, Scikit-learn, regression modeling.
 
 ---
 
