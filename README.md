@@ -53,7 +53,7 @@
 
 ### Projects by Category:
 
-- **[Olist E-Commerce Sales Analysis](https://github.com/fayiznalakath/Olist-Sale-Analysis)**  
+- **[Olist E-Commerce Sales Analysis - Power BI](https://github.com/fayiznalakath/Olist-Sale-Analysis)**  
   Power BI dashboards, SQL queries, KPIs, and EDA on a real e-commerce dataset.
 
 - **[EV Range Prediction (Machine Learning)](https://github.com/fayiznalakath/EV-Range-Prediction)**
@@ -62,15 +62,16 @@
 - **[NYC Taxi Trip Analysis - Excel](https://github.com/fayiznalakath/NYC-Taxi-Trip-Analysis-Excel)**
   Excel Dashboard, KPIs, time-based trends, payment distribution.
 
-- **Data Scientist Job Salary Analysis** *(Coming Soon)*  
-  Visual dashboards and insights.
+- **[Data Science Job Salary Analysis - Tableau](https://github.com/fayiznalakath/Tableau-Data-Science-Salary-Analysis)**
+  Tableau Dashboard, Analyzed how salaries vary based on experience level, job role, employment type, company size, and geographic location.
 
 ---
 
 ### My Projects:
 - **Olist Sales Analysis Dashboard** — Power BI KPIs, category insights, order trends, customer behavior.  
 - **EV Range Prediction Model** — Pandas, Scikit-learn, regression modeling.
-- **NYC Taxi Trip Analysis - Excel** — Excel, KPIs, time-based trends, payment distribution.  
+- **NYC Taxi Trip Analysis - Excel** — Excel, KPIs, time-based trends, payment distribution.
+- **Data Science Job Salary Analysis - Tableau** — Analyzed how salaries vary based on experience level, job role, employment type, company size, and geographic location.
 ---
 
 <h2 align="center">📄 Certifications 📄</h2>
