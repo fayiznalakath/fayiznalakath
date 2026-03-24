@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<h1 align="center">Fayiz Nalakath</h1>
+<h1 align="center">Faez Nalakath</h1>
 <h3 align="center">Data Analyst | Python | SQL | Power BI | Tableau</h3>
 <br>
 </div>
@@ -14,7 +14,7 @@
     <a href="https://www.linkedin.com/in/faeznalakath/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    <a href="https://github.com/fayiznalakath">
+    <a href="https://github.com/faeznalakath">
         <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/> 
     </a> <br>
     <img src="https://komarev.com/ghpvc/?username=fayiznalakath&style=flat-square&color=blue"/>
@@ -53,16 +53,16 @@
 
 ### Projects by Category:
 
-- **[Olist E-Commerce Sales Analysis - Power BI](https://github.com/fayiznalakath/Olist-Sale-Analysis)**  
+- **[Olist E-Commerce Sales Analysis - Power BI](https://github.com/faeznalakath/Olist-Sale-Analysis)**  
   Power BI dashboards, SQL queries, KPIs, and EDA on a real e-commerce dataset.
 
-- **[EV Range Prediction (Machine Learning)](https://github.com/fayiznalakath/EV-Range-Prediction)**
+- **[EV Range Prediction (Machine Learning)](https://github.com/faeznalakath/EV-Range-Prediction)**
   Regression models, feature analysis, and evaluation.
 
-- **[NYC Taxi Trip Analysis - Excel](https://github.com/fayiznalakath/NYC-Taxi-Trip-Analysis-Excel)**
+- **[NYC Taxi Trip Analysis - Excel](https://github.com/faeznalakath/NYC-Taxi-Trip-Analysis-Excel)**
   Excel Dashboard, KPIs, time-based trends, payment distribution.
 
-- **[Data Science Job Salary Analysis - Tableau](https://github.com/fayiznalakath/Tableau-Data-Science-Salary-Analysis)**
+- **[Data Science Job Salary Analysis - Tableau](https://github.com/faeznalakath/Tableau-Data-Science-Salary-Analysis)**
   Tableau Dashboard, Analyzed how salaries vary based on experience level, job role, employment type, company size, and geographic location.
 
 ---
@@ -78,7 +78,8 @@
 <br>
 
 - Kaggle — Python Course  
-- Tata Forage — GenAI Powered Data Analytics Job Simulation  
+- Tata Forage — GenAI Powered Data Analytics Job Simulation
+- Google Data Analytics Professional Certificate, (Coursera, 2026)
 
 ---
 
@@ -86,7 +87,7 @@
 <br>
 
 - **LinkedIn:** https://www.linkedin.com/in/faeznalakath/  
-- **GitHub:** https://github.com/fayiznalakath  
+- **GitHub:** https://github.com/faeznalakath  
 - **Email:** fayiznalakath7@gmail.com  
 
 ---
